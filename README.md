@@ -1,5 +1,5 @@
 =============
-git-branching
+git-branching (x2)
 =============
 
-A really simple exercise about branching in Git.
+A simple exercise about branching in Git.
